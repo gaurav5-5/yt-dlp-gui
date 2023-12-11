@@ -1,7 +1,7 @@
 yt-dlp-gui
 ----------
 
-A simple frontend for (yt-dlp)[https://www.github.com/yt-dlp/yt-dlp] made in python+tkinter
+A simple frontend for [yt-dlp](https://www.github.com/yt-dlp/yt-dlp) made in python+tkinter
 
 Building
 --------
